@@ -97,7 +97,7 @@ namespace ProjekatStudentskiDom.DAO
                 cmd.Parameters.AddWithValue("@idSobe", soba.Id);
                 cmd.Parameters.AddWithValue("@idStudenta", student.Id);
 
-                if (cmd.ExecuteNonQuery() == 1) //broj redova na koje naredba utice !!
+                if (cmd.ExecuteNonQuery() == 1)
                 {
                     isAdded = true;
                 }
