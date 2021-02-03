@@ -1,4 +1,4 @@
-• "Studentski dom" is project for managing dormitory.
+•"Studentski dom" is project for managing dormitory.
 
 • Console Application, built using C# language.
 
